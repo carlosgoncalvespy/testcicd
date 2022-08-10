@@ -1,3 +1,4 @@
 Este es el archivo file1
 
 Se agrega esta linea para ver el efecto del show
+ hice un commit y olvide este, pero veamos como se porta el git commit --amend
