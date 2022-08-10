@@ -2,6 +2,5 @@ Este es el archivo file3
 
 En este momento el archivo esta en staging, pero antes de hacer el commit lo editamos nuevamente para ver que pasa
 
-Agregamos esta linea para hacer commit
 
-Agregamos para colocar el archivo en stage y luego hacer un reset en un commit
+se eliminaron lineas y se agrego esta para ver el ejemplo del show
