@@ -9,3 +9,5 @@ Esta linea es para la rama calidad
 
 Esta linea es para la rama desarrollo
 <Desarrollo>Esta ya fue modificada <Developer>
+
+Esta linea sera para subir al remote 
